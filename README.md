@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Cristencio
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Olá, eu sou o Cris
 
-<!---
-Cristencio/Cristencio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Interesses: programação, e projetos práticos  
+- 🌱 Atualmente aprendendo  desenvolvimento 
+- 💞️ Procurando colaborar em: apps, e projetos open-source  
+- 📫 Como me encontrar: email ou LinkedIn  
+- 😄 Pronomes: Ele/Dele  
+- ⚡ Curiosidade: Adoro transformar ideias em projetos reais
